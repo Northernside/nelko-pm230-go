@@ -1,0 +1,13 @@
+{
+  "SPBluetoothDataType": [
+    {
+      "device_connected": [
+        {"Magic Keyboard": {"device_address": "AA-BB-CC-11-22-33"}}
+      ],
+      "device_not_connected": [
+        {"PM230": {"device_address": "2A-6E-21-2A-B1-10"}},
+        {"WH-1000XM4": {"device_address": "DD-EE-FF-44-55-66"}}
+      ]
+    }
+  ]
+}

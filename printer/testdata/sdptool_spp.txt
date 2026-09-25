@@ -1,0 +1,9 @@
+Browsing 2A:6E:21:2A:B1:10 ...
+Service Name: SPP
+Service RecHandle: 0x10005
+Service Class ID List:
+  "Serial Port" (0x1101)
+Protocol Descriptor List:
+  "L2CAP" (0x0100)
+  "RFCOMM" (0x0003)
+    Channel: 6
